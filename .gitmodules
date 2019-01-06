@@ -1,0 +1,3 @@
+[submodule "robotcrowd-explore"]
+	path = robotcrowd-explore
+	url = https://github.com/nidorx/robotcrowd-explore.git
